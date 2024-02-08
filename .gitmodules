@@ -1,0 +1,3 @@
+[submodule "tools/py_docker_builder"]
+	path = tools/py_docker_builder
+	url = https://github.com/jchrispen/py_docker_builder.git
